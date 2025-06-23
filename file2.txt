@@ -1,0 +1,1 @@
+AI, short for Artificial Intelligence, is a field in computer science focused on building smart systems. These systems can carry out tasks that usually require human thinking, such as problem-solving, learning, and understanding language.
